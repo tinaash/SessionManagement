@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Boot-SessionManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tina
+Implementation-Vendor-Id: com.kgisl.tech
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring-Session-Management
+Created-By: Maven Integration for Eclipse
+
